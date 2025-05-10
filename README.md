@@ -1,4 +1,4 @@
-**Pong Game**
+``**Pong Game**``
 
 
 🎮 A classic Pong game built in Java with modern enhancements like a ripple effect on scoring, a persistent leaderboard, and customizable player names. Designed to provide an engaging retro gaming experience with a touch of flair!
